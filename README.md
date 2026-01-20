@@ -1,4 +1,4 @@
-# Google News Dataset Sample
+# Google News データセットサンプル
 
 <h2>1,000件のレコードからなるサンプルデータセット</h2>
 
