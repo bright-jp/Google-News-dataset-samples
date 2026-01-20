@@ -1,44 +1,44 @@
 # Google News Dataset Sample
 
-<h2>A sample dataset of 1,000 records</h2>
+<h2>1,000件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Google-News-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Google News Dataset Sample** includes **1,000 records** and was extracted using the **Bright Data API**.
+この **Google News Dataset Sample** には **1,000件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The direct link to the full news article on the publisher's website. |
-| `title` | The headline or title of the news article, summarizing the main topic. |
-| `publisher` | The name of the organization or individual that published the article. |
-| `date` | The date and time when the article was published, in ISO 8601 format. |
-| `category` | The primary category or genre that the news article belongs to. |
-| `keyword` | Key terms or phrases associated with the article for search and classification. |
-| `country` | The country of origin or primary audience of the news article. |
-| `image` | URL link to the main image associated with the news article, if available. |
+| `url` | 発行元のWebサイト上にあるニュース記事全文への直接リンクです。 |
+| `title` | ニュース記事の見出しまたはタイトルであり、主なトピックを要約します。 |
+| `publisher` | 記事を公開した組織または個人の名称です。 |
+| `date` | 記事が公開された日時で、ISO 8601形式です。 |
+| `category` | ニュース記事が属する主要カテゴリまたはジャンルです。 |
+| `keyword` | 検索および分類のために記事に関連付けられた主要な用語やフレーズです。 |
+| `country` | ニュース記事の発信元の国、または主要な対象読者の国です。 |
+| `image` | 利用可能な場合、ニュース記事に関連するメイン画像へのURLリンクです。 |
 
 
 ## Use Cases
 
-### 1. Media Trends Analysis
-Analyze media coverage trends over time to understand public interest and media focus across different categories and countries.
+### 1. メディアトレンド分析
+時間の経過に伴うメディア報道トレンドを分析し、異なるカテゴリや国にわたる世間の関心およびメディアの注目領域を把握します。
 
-### 2. Competitive Analysis
-Gain insights into how different publishers cover similar topics, allowing businesses to strategize their media presence effectively.
+### 2. 競合分析
+異なる発行元が類似トピックをどのように報道しているかについてのインサイトを得て、企業がメディア露出を効果的に戦略化できるようにします。
 
-### 3. Keyword Research
-Identify trending keywords in news articles to enhance SEO strategies and content creation for targeted audience engagement.
+### 3. キーワードリサーチ
+ニュース記事内のトレンドキーワードを特定し、ターゲットオーディエンスのエンゲージメントに向けたSEO戦略やコンテンツ制作を強化します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -58,8 +58,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（単発配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -68,14 +68,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントを加え、データセットを強化します。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Google News dataset](https://brightdata.com/products/datasets/news/google-news)**
+**[Google Newsの完全なデータセットを入手する](https://brightdata.jp/products/datasets/news/google-news)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** と **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com) から無料アクセスにお申し込みください。
