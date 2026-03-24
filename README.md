@@ -1,43 +1,43 @@
-# Google News データセットサンプル
+# Google News Dataset Sample
 
-<h2>1,000件のレコードからなるサンプルデータセット</h2>
+<h2>1,000件のレコードを含むサンプル dataset</h2>
 
 <a href="https://brightdata.jp">
     <img src="https://github.com/bright-jp/Google-News-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-この **Google News Dataset Sample** には **1,000件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
+この**Google News Dataset Sample**には**1,000件のレコード**が含まれており、**Bright Data API**を使用して抽出されています。
 
-## Data Points
+## データポイント
 
-| Field Name | Description |
+| Field Name | 説明 |
 |------------|-------------|
-| `url` | 発行元のWebサイト上にあるニュース記事全文への直接リンクです。 |
-| `title` | ニュース記事の見出しまたはタイトルであり、主なトピックを要約します。 |
-| `publisher` | 記事を公開した組織または個人の名称です。 |
-| `date` | 記事が公開された日時で、ISO 8601形式です。 |
-| `category` | ニュース記事が属する主要カテゴリまたはジャンルです。 |
-| `keyword` | 検索および分類のために記事に関連付けられた主要な用語やフレーズです。 |
-| `country` | ニュース記事の発信元の国、または主要な対象読者の国です。 |
-| `image` | 利用可能な場合、ニュース記事に関連するメイン画像へのURLリンクです。 |
+| `url` | パブリッシャーのWebサイト上にあるニュース記事全文への直接リンク。 |
+| `title` | ニュース記事の見出しまたはタイトルで、主なトピックを要約したもの。 |
+| `publisher` | 記事を公開した組織または個人の名前。 |
+| `date` | 記事が公開された日時。ISO 8601形式。 |
+| `category` | そのニュース記事が属する主要なカテゴリまたはジャンル。 |
+| `keyword` | 検索および分類のために記事に関連付けられた主要な用語またはフレーズ。 |
+| `country` | ニュース記事の発信国、または主な対象読者の国。 |
+| `image` | 利用可能な場合、ニュース記事に関連付けられたメイン画像のURLリンク。 |
 
 
-## Use Cases
+## ユースケース
 
 ### 1. メディアトレンド分析
-時間の経過に伴うメディア報道トレンドを分析し、異なるカテゴリや国にわたる世間の関心およびメディアの注目領域を把握します。
+異なるカテゴリや国にまたがる世論の関心やメディアの注目点を理解するために、時間の経過に伴うメディア報道のトレンドを分析します。
 
 ### 2. 競合分析
-異なる発行元が類似トピックをどのように報道しているかについてのインサイトを得て、企業がメディア露出を効果的に戦略化できるようにします。
+異なるパブリッシャーが類似したトピックをどのように取り上げているかについてのインサイトを得ることで、企業がメディア戦略を効果的に立てられるようにします。
 
 ### 3. キーワードリサーチ
-ニュース記事内のトレンドキーワードを特定し、ターゲットオーディエンスのエンゲージメントに向けたSEO戦略やコンテンツ制作を強化します。
+ニュース記事内のトレンドキーワードを特定し、ターゲットオーディエンスとのエンゲージメントに向けたSEO戦略やコンテンツ作成を強化します。
 
 
 
-## File Formats
+## ファイル形式
 
-データセットは複数の形式で利用可能です:
+このdatasetは複数の形式で利用できます:
 - **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
@@ -45,7 +45,7 @@
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## 配信オプション
 
 - **Email**
 - **API Download**
@@ -56,26 +56,26 @@
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## 更新頻度
 
-データセットはさまざまなスケジュールで更新できます:
-- **Once**（単発配信）
+datasetはさまざまなスケジュールで更新できます:
+- **Once**（1回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## データエンリッチメント
 
-特定の要件に基づいて追加のデータポイントを加え、データセットを強化します。カスタムのエンリッチメントオプションについてはお問い合わせください。
+特定の要件に基づいて追加のデータポイントでdatasetを強化できます。カスタムエンリッチメントのオプションについてはお問い合わせください。
 
-**[Google Newsの完全なデータセットを入手する](https://brightdata.jp/products/datasets/news/google-news)**
+**[Google News datasetの完全版を入手](https://brightdata.jp/products/datasets/news/google-news)**
 
 ---
 
 ## 研究者およびNGO向けの無料アクセス
 
-Bright Initiativeは、環境および社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** と **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
+Bright Initiativeは、環境問題や社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるdatasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-[brightinitiative.com](https://brightinitiative.com) から無料アクセスにお申し込みください。
+無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)から行えます。
